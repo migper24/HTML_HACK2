@@ -1,0 +1,85 @@
+:root{
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+.caja-1{
+    width: 1200px;
+    height: 100px;
+    background-color: #93B5C9;
+    border: 2px solid black;
+    position: relative;
+    margin:auto;
+    
+    
+ }
+ .caja-2{
+    width: 1200px;
+    height: 160px;
+    background-color: #AB2849;
+    border: 2px solid black;
+    position: relative;
+    margin:auto;
+ }
+
+ .caja-3{
+    top: 30px;
+   box-sizing: border-box;
+    width: 800px;
+    height: 100px;
+    background-color: #AB2849;
+    position: relative;
+    margin-left: 35px;
+    
+ }
+
+ .caja-4{
+    top: 60px;
+   box-sizing: border-box;
+    width: 800px;
+    height: 100px;
+    background-color: #AB2849;
+    position: relative;
+    margin-left: 35px;
+    
+ }
+
+ .caja-5{
+    top: 90px;
+      box-sizing: border-box;
+    width: 800px;
+    height: 100px;
+    background-color: #AB2849;
+    position: relative;
+    margin-left: 35px;
+    
+ }
+
+ .caja-6{
+    top: 120px;
+   box-sizing: border-box;
+    width: 800px;
+    height: 100px;
+    background-color: #AB2849;
+    position: relative;
+    margin-left: 35px;
+    
+ }
+
+
+.caja-7{
+   top: 150px; 
+   box-sizing: border-box;
+   width: 1000px;
+   height: 100px;
+   background-color: #AB2849;
+   position: relative;
+   margin: auto;
+   
+   
+}
